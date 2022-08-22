@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mtj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mtj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

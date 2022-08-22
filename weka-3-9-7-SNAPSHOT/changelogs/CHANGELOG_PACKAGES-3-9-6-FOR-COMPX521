@@ -1,0 +1,2 @@
+Error: Could not find or load main class org.tmatesoft.svn.cli.SVN
+Caused by: java.lang.ClassNotFoundException: org.tmatesoft.svn.cli.SVN
